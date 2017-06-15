@@ -1,0 +1,22 @@
+{
+  "name": "@cross2d/react-web-swipe-left",
+  "version": "1.0.0",
+  "description": "RN swipe-left component for listView.(左滑解决方案)",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-swipe-left.git"
+  },
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-swipe-left/issues"
+  },
+  "homepage": "https://github.com/cross2d/react-web-swipe-left#readme"
+}
